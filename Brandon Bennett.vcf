@@ -6,7 +6,6 @@ FN:Brandon Bennett
 EMAIL;type=INTERNET;type=WORK;type=pref:brandon.bennett@ah.org
 TEL;type=IPHONE;type=CELL;type=VOICE;type=pref:(661) 472-1092
 TEL;type=WORK;type=VOICE;type=pref:(661) 637-8328
-item1.ADR;type=HOME;type=pref:;;6504 Rexford Way;Bakersfield;CA;93309;United States
+item1.ADR;type=HOME;type=pref:;;2620 Chester Ave;Bakersfield;CA;93301;United States
 item1.X-ABADR:us
-ADR;type=WORK:;;2620 Chester Ave;Bakersfield;CA;93301;United States
 END:VCARD

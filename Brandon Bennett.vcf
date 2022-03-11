@@ -3,8 +3,7 @@ VERSION:3.0
 PRODID:-//Apple Inc.//Mac OS X 10.15.7//EN
 N:Bennett;Brandon;;;
 FN:Brandon Bennett
-EMAIL;type=INTERNET;type=HOME;type=pref:seek4learning@gmail.com
-TEL;type=IPHONE;type=CELL;type=VOICE;type=pref:(661) 472-1092
+EMAIL;type=INTERNET;type=HOME;type=pref:brandon.bennett@ah.org
 TEL;type=WORK;type=VOICE:(661) 863-2328
 ADR;type=WORK:;;2620 Chester Ave;Bakersfield;CA;93301;United States
 PHOTO;ENCODING=b;TYPE=JPEG:/9j/4AAQSkZJRgABAQAASABIAAD/4QBARXhpZgAATU0AKgAA

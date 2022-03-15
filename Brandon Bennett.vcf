@@ -1,10 +1,12 @@
 BEGIN:VCARD
 VERSION:3.0
-PRODID:-//Apple Inc.//Mac OS X 10.15.7//EN
 N:Bennett;Brandon;;;
 FN:Brandon Bennett
-EMAIL;type=INTERNET;type=WORK;type=pref:Brandon.Bennett@ah.org
+ORG:Adventist Health Bakersfield;
+EMAIL;type=INTERNET;type=WORK;type=pref:bennetb1@ah.org
 TEL;type=WORK;type=VOICE;type=pref:+1 (661) 863-2328
 item1.X-ABADR:us
 ADR;type=WORK:;;2620 Chester Ave;Bakersfield;CA;93301;United States
+item2.URL;type=pref:https\://www.adventisthealth.org/bakersfield/
+item2.X-ABLabel:_$!<HomePage>!$_
 END:VCARD

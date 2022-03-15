@@ -1,0 +1,13 @@
+BEGIN:VCARD
+VERSION:3.0
+N:Lavers;Jennifer;;;
+FN:Jennifer Lavers
+ORG:Adventist Health Bakersfield;
+TITLE:Multi-Site Administrative Director, Service Line Strategy
+EMAIL;type=INTERNET;type=WORK;type=pref:laversjg@ah.org
+TEL;type=WORK;type=pref:+1 (661) 863-2326
+ADR;type=WORK:;;2620 Chester Ave;Bakersfield;CA;93301;United States
+item1.X-ABADR:us
+item2.URL;type=pref:https\://www.adventisthealth.org/bakersfield/
+item2.X-ABLabel:_$!<HomePage>!$_
+END:VCARD

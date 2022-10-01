@@ -1,0 +1,11 @@
+BEGIN:VCARD
+VERSION:3.0
+N:Hill;Timothy;;;
+FN:Timothy Hill
+ORG:S.E.P - Solar Energy Partners;
+TITLE:Solar Sales Representative
+EMAIL;type=INTERNET;type=WORK;type=pref:timothyh251@gmail.com
+TEL;type=WORK;type=pref:+1 (661) 440-2903
+item2.URL;type=pref:https\://www.sep.com
+item2.X-ABLabel:_$!<HomePage>!$_
+END:VCARD
